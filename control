@@ -1,0 +1,9 @@
+Package: com.thezimm.labelmover
+Depends: mobilesubstrate
+Name: LabelMover
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Move the icon labels to the top
+Author: Dan Zimmerman <daniel.zimmerman@me.com>
+Section: Tweaks
+dev: thezimm
